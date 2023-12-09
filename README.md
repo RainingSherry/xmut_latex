@@ -7,7 +7,8 @@ https://github.com/leekunhwee/XJTU_Thesis_LaTeX_2021?search=1
 
 
 用xelatex编译
-其实我也不知道readme要写些啥
+
+readme还要写些啥
 
 还有啊，这个东西暂时写了一半，之后应该还会改
 
