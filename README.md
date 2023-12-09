@@ -1,8 +1,8 @@
 # xmut_latex
 自己改的厦门理工学院硕士论文的latex模板
 
-改自https://github.com/leekunhwee/XJTU_Thesis_LaTeX_2021?search=1
-的master的模板（其他大学的我跑不出也看不懂bu）
+改自西安交通大学master的模板
+https://github.com/leekunhwee/XJTU_Thesis_LaTeX_2021?search=1
 上面那个链接还教你咋安装latex
 
 
